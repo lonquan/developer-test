@@ -1,4 +1,4 @@
-## fe-test
+## FE Test
 
 ### 准备工作
 1. fork 本项目
@@ -22,7 +22,7 @@
 - Webpack
 - ESLint & StyleLint
 
-## rd-test
+## RD Test
 
 ### 准备工作
 1. fork 本项目
