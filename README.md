@@ -30,6 +30,7 @@
 
 ### 第一部分
 1. 用 OOP 思想写一个微波炉（PHP / Java 均可）
+> 要求：物品加热时不能开门，带皮 / 带壳食物不能被加热
 
 ### 第二部分
 1. 提供 SSH Key 到邮箱 ZW1WdVozTm9hWEpoYmtCdWFYVmtZV3BwTG1OdmJRPT0=
