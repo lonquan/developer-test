@@ -22,7 +22,7 @@
 - Webpack
 - ESLint & StyleLint
 
-## RD Test
+## BD Test
 
 ### 准备工作
 1. fork 本项目
@@ -33,6 +33,12 @@
 > 要求：物品加热时不能开门，带皮 / 带壳食物不能被加热
 
 ### 第二部分
+1. 伪代码实现微信内网页授权登录 & 微信小程序授权登录流程
+2. 伪代码实现大量数据导入数据库
+3. 伪代码实现大量数据导出为 Excel
+4. 伪代码实现商品秒杀相关功能
+
+### 第3️三部分
 1. 提供 SSH Key 到邮箱 ZW1WdVozTm9hWEpoYmtCdWFYVmtZV3BwTG1OdmJRPT0=
 2. 登录服务器，搭建一个最基本的 LNMP 生产环境
 
