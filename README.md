@@ -38,7 +38,7 @@
 3. 伪代码实现大量数据导出为 Excel
 4. 伪代码实现商品秒杀相关功能
 
-### 第3三部分
+### 第三部分
 1. 提供 SSH Key 到邮箱 ZW1WdVozTm9hWEpoYmtCdWFYVmtZV3BwTG1OdmJRPT0=
 2. 登录服务器，搭建一个最基本的 LNMP 生产环境
 
